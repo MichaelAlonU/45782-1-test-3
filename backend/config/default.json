@@ -1,0 +1,14 @@
+{
+    "app": {
+        "port": 3000,
+        "name": "teams meetings dev",
+        "secret": "MySecret"
+    },
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "username": "root",
+        "password": "",
+        "database": "teams_meetings_db"
+    }
+}
