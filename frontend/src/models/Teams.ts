@@ -1,4 +1,4 @@
-export interface Audience {
+export interface Team {
     id: string
     name: string
 }

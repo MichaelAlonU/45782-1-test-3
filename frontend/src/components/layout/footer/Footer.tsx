@@ -5,7 +5,7 @@ export default function Footer() {
 
     return (
         <div className='Footer'>
-            (c) copyrights Toys R Us
+            (c) copyrights T.M
         </div>
     );
 }
